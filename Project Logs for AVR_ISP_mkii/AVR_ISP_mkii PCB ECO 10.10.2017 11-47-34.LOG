@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=VBUS Pin=C11-2
+Removed Pin From Net: NetName=VBUS Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Member From Class: ClassName=Power Member=C11
+Removed Member From Class: ClassName=Power Member=C12
+Added Member To Class: ClassName=MCU Member=Component U1 90USB162-16AU

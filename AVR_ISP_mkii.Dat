@@ -1,0 +1,24 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AVR_ISP_mkii.PrjPcb|ReportField=ProjectFullPath~E:\Drive\Projects_Home\AVR_ISP_mkii\AVR_ISP_mkii.PrjPcb|ReportField=Title~Bill of Materials For Project [AVR_ISP_mkii.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~38|ReportField=ReportTime~22:44:10|ReportField=ReportDate~04.12.2017|ReportField=ReportDateTime~04.12.2017 22:44:10|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~04.12.2017|ReportField=CurrentTime~22:43:20|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Drive\Projects_Home\AVR_ISP_mkii\Connections.SchDoc|ReportField=DocumentName~Connections.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10.10.2017|ReportField=Organization~|ReportField=ProjectName~AVR_ISP_mkii.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AVR_ISP_mkii.PrjPcb|ReportField=DataSourceFullPath~E:\Drive\Projects_Home\AVR_ISP_mkii\AVR_ISP_mkii.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|10uF|CC0805|C1, C7|2
+2|0.1uF|CC0603|C2, C3, C4, C8, C9|5
+3|22pF|CC0603|C5, C6|2
+4|10uFx6.3V|CC0805|C10|1
+5|AP2210K-ADJTRG1|300 mA, Low Voltage, Low Quiescent Current LDO Regulator, 5-Pin SOT-223, Extended Temperature, Tape and Reel|DA1|1
+6|PLS-02|PLS-02|J1, J2|2
+7|L0805|L0805|L1|1
+8|n.p||Q1|1
+9|16MHz|AC5032/2|QR1|1
+10|68E|RC0603|R1, R2, R3, R4|4
+11|1M|RC1206|R5|1
+12|10k|RC0603|R6, R9, R11|3
+13|22E|RC0603|R7, R8|2
+14|220E|RC0603|R10, R13, R16|3
+15|11k 1%|RC0603|R14|1
+16|18k 1%|RC0603|R15|1
+17|90USB162-16AU|8-bit AVR Microcontroller, 2.7-5.5V, 16KB Flash, 512 Bytes EEPROM, 512 Bytes SRAM, USB Controller, 32-pin TQFP, Industrial Grade (-40°C to 85°C)|U1|1
+18|SN74HC244DW|Octal Buffer and Line Driver with 3-State Outputs|U2|1
+19|LED_5050_RGB||VD1|1
+20|PLD06|PLD06|XP1|1
+21|USB_B|USB_B|XP2|1
+22|PLD2-06|PLD2-06|XP3|1
+23|PLS03|PLS03|XP4|1

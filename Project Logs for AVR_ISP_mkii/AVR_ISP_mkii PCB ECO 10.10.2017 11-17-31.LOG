@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetR10_1 Pin=VD1-1
+Removed Pin From Net: NetName=NetR13_1 Pin=VD2-1
+Removed Pin From Net: NetName=GND Pin=VD2-2
+Removed Member From Class: ClassName=MCU Member=VD2
+Change Component Footprint: Designator=VD1 Old Footprint=LED0805 New Footprint=LED_5050
+Change Component Comment : Designator=VD1 Old Comment=LED_0805 New Comment=LED_5050_RGB
+Change component parameters: Designator = "VD1"; Footprint = "LED_5050"; UniqueID = "\VPIBGDSJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "LED_5050_RGB"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RC0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "220E"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R16-2
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=GND Pin=VD1-3
+Added Pin To Net: NetName=NetR13_1 Pin=VD1-5
+Added Pin To Net: NetName=NetR10_1 Pin=VD1-6
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=VD1-4
+Added Net: Name=NetR16_1
+Added Member To Class: ClassName=MCU Member=Component R16 220E

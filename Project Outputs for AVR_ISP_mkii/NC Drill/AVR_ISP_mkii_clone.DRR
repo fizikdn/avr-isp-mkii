@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: AVR_ISP_mkii_clone.PcbDoc   10.10.2017  12:21:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : AVR_ISP_mkii_clone-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             74        PTH        11.36inch (288.47mm)
+T2      20mil (0.5mm)                                             Round             2         PTH        0.28inch (7.23mm)
+T3      35mil (0.899mm)                                           Round             6         PTH        0.39inch (10.00mm)
+T4      38mil (0.965mm)                                           Round             4         PTH        0.26inch (6.50mm)
+T5      39mil (1.001mm)                                           Round             13        PTH        4.33inch (109.86mm)
+T6      91mil (2.301mm)                                           Round             2         PTH        0.47inch (12.04mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              101
+
+Total Processing Time (hh:mm:ss) : 00:00:00

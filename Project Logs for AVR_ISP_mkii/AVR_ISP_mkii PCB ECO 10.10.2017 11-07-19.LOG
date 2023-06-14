@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=RESET Pin=DD1-1
+Removed Pin From Net: NetName=MOSI Pin=DD1-2
+Removed Pin From Net: NetName=SCK Pin=DD1-4
+Removed Pin From Net: NetName=RESET Pin=DD1-6
+Removed Pin From Net: NetName=GND Pin=DD1-10
+Removed Pin From Net: NetName=MISO Pin=DD1-12
+Removed Pin From Net: NetName=RESET Pin=DD1-19
+Removed Pin From Net: NetName=VCC Pin=DD1-20
+Removed Member From Class: ClassName=MCU Member=DD1
+Added Component: Designator=U2(DW020_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P1030-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74hc244.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "May-1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "20-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DW020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Mar-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=U2-1
+Added Pin To Net: NetName=MOSI Pin=U2-2
+Added Pin To Net: NetName=SCK Pin=U2-4
+Added Pin To Net: NetName=RESET Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=MISO Pin=U2-12
+Added Pin To Net: NetName=RESET Pin=U2-19
+Added Pin To Net: NetName=VCC Pin=U2-20
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U2-8
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-18
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-16
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U2-14
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=MCU Member=Component U2 SN74HC244DW
